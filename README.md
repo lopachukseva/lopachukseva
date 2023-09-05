@@ -20,6 +20,6 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopachukseva&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop)](https://github.com/anuraghazra/github-readme-stats)
