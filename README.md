@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, i'm Seva </h1>
-### <h1 align="center">Full Stack Developer</h1>
-### :hammer_and_wrench: My languages and tools:
+### <h1 align="center">Full Stack Developer </h1>
+### <h2> My languages and tools: </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Python" width="40" height="40"/>&nbsp;
@@ -29,7 +29,8 @@
 
 ---
 
-### :fire: My Stats:
+### <h2> My Stats: </h2>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop)](https://github.com/anuraghazra/github-readme-stats)
