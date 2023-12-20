@@ -31,5 +31,5 @@
 
 ### <h2> My Stats: </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop" alt="lopachukseva" /></p>
-<p><img align="right" src="https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true" alt="lopachukseva" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true" alt="lopachukseva" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop" alt="lopachukseva" /></p>
