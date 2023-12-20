@@ -31,6 +31,5 @@
 
 ### <h2> My Stats: </h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopachukseva&layout=compact&exclude_repo=python-base,python-oop" alt="lopachukseva" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com?user=lopachukseva&card_width=300&hide_current_streak=true" alt="lopachukseva" /></p>
